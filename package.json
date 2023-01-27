@@ -4,7 +4,8 @@
   "description": "This is the repository for the LinkedIn Learning course `Learning npm the Node Packager`. The full course is available from [LinkedIn Learning][lil-course-url].",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./index.js --exec babel-node"
+    "start": "nodemon ./index.js --exec babel-node",
+    "createang": "npx -p @angular/cli ng new myapp"
   },
   "repository": {
     "type": "git",
