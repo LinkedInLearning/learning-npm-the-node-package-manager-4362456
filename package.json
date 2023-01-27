@@ -1,5 +1,5 @@
 {
-  "name": "learning-npm-the-node-package-manager-4362456",
+  "name": "@algofields/learning-npm-the-node-package-manager-4362456",
   "version": "1.0.0",
   "description": "This is the repository for the LinkedIn Learning course `Learning npm the Node Packager`. The full course is available from [LinkedIn Learning][lil-course-url].",
   "main": "index.js",
@@ -20,7 +20,6 @@
     "express": "^4.18.2"
   },
   "devDependencies": {
-    "babel": "^6.23.0",
-    "cli": "^1.0.1"
+    "babel-cli": "^6.26.0"
   }
 }
