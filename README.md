@@ -1,5 +1,10 @@
-# Learning npm the Node Package
-This is the repository for the LinkedIn Learning course `Learning npm the Node Packager`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Learning npm: A Package Manager
+This is the repository for the LinkedIn Learning course Learning npm: A Package Manager. The full course is available from [LinkedIn Learning][lil-course-url].
+
+![Learning npm: A Package Manager][lil-thumbnail-url] 
+
+npm is an indispensable part of every developer's toolbox. It's the package manager for JavaScript and JavaScript frameworks such as Node.js, enabling developers to easily share and re-use code. In this course, Emmanuel Henri teaches developers how to work with npm commands to install and manage project dependencies. He starts with showing how to install npm, and details all the basic tools you can use with npm, such as adding, updating, or removing a package. Emmanuel then shows you how to take your skills to the next level, taking a dive deep into advanced features like npm cache, audits, scripting, and more.
+
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
@@ -20,15 +25,13 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+### Instructor
 
+Emmanuel Henri 
+                            
+Author
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/emmanuel-henri).
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
-
+[lil-course-url]: https://www.linkedin.com/learning/learning-npm-a-package-manager?dApp=59033956
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C560DAQF6xNNOUO2ZwQ/learning-public-crop_288_512/0/1678465785599?e=2147483647&v=beta&t=INjO7_K3vfBFPnr7LP3QDkABNI2O9yUJvAuOaYP2xoY
