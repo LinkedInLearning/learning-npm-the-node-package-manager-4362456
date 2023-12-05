@@ -1,0 +1,25 @@
+{
+  "name": "@garyhart5046/learning-npm-the-node-package-manager-4362456",
+  "version": "1.0.0",
+  "description": "This is the repository for the LinkedIn Learning course Learning npm: A Package Manager. The full course is available from [LinkedIn Learning][lil-course-url].",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolbyDiert65/learning-npm-the-node-package-manager-4362456.git"
+  },
+  "author": "garyhart1243",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolbyDiert65/learning-npm-the-node-package-manager-4362456/issues"
+  },
+  "homepage": "https://github.com/kolbyDiert65/learning-npm-the-node-package-manager-4362456#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
